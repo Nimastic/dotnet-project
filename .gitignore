@@ -1,0 +1,30 @@
+/MyDotNetApp/obj
+# Binaries and build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# IDE settings (for Visual Studio, Visual Studio Code)
+.vscode/
+.vs/
+
+# SQLite database files
+*.db
+*.sqlite
+
+# Package directories
+packages/
+.nuget/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
